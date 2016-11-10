@@ -1,0 +1,130 @@
+
+*{
+  border: 2px solid red-,
+}
+header{
+  background: #33332f;
+  color: #fff;
+}
+header img{
+  width: 80px;
+}
+header .nav{
+  list-style: none;
+  margin:0;
+  padding: 0;
+  text-align: right;
+  color: #fff;
+  padding: 20px 0;
+}
+header .nav li{
+  display: inline-block;
+}
+header .nav a{
+    padding: 10px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+  }
+
+
+------->
+.las h2 {
+	padding:  10px 0;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.episodio .las a{
+
+  padding: 0;
+  display: block;
+  font-size: 15px;
+  text-decoration: none;
+  color: #336699;
+}
+----------->
+.episodio{
+  background: #eeeeee;
+  border-bottom: 2px solid #b5b5b5;
+  width: 100%;
+  height: 347px;
+  margin-bottom: 40px;
+}
+.episodio .imagen img {
+  width: 220px;
+  height: 220px;
+  background: #fff;
+  padding: 4px;
+  border: 1px solid #ccc;
+}
+.cl{
+  display: inline-block;
+}
+.episodio .episodios p {
+  text-align: center;
+}
+
+-----------------------------------
+.contenido .listacontenido{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.listacontenido li{
+  list-style: none;
+  text-align: center;
+  float:left;
+  width:109px;
+  height:150px;
+  margin-right:15px;
+  margin-bottom:10px;
+  color:#336faf;
+}
+
+.listacontenido li img{
+  width: 100%;
+}
+/*...........................*/
+.navegacion h3{
+  border-bottom:2px solid rgb(103, 99, 90);
+  margin: 10px 0;
+  color:rgb(103, 99, 90)
+}
+.navegacion ul{
+list-style: none;
+margin: 0;
+padding: 10px;
+
+}
+.navegacion img{
+  margin-right: 10px;
+  width: 15px;
+}
+.navegacion a{
+  text-decoration: none;
+  color:#2b3465;
+}
+.navegacion h5{
+    color:#2b3465;
+}
+.navegacion h4, h5{
+  font-size: 15px;
+}
+footer{
+    padding:0;
+  margin-top: 1200px;
+  background: #6b6964;
+    color:#fff;
+
+
+}
+
+footer p{
+    margin-bottom: 20px;
+}
+footer p a{
+    text-decoration: none;
+    color: #ccc;
+
+}
