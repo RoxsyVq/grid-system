@@ -1,0 +1,72 @@
+
+*{
+  border: 2px solid red-,
+}
+header{
+  background: #33332f;
+  color: #fff;
+}
+header img{
+  width: 80px;
+}
+header .nav{
+  list-style: none;
+  margin:0;
+  padding: 0;
+  text-align: right;
+  color: #fff;
+  padding: 20px 0;
+}
+header .nav li{
+  display: inline-block;
+}
+header .nav a{
+    padding: 10px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+  }
+
+
+------->
+.las {
+	padding:  10px 0;
+}
+.espisodio .las img{
+  background: black;
+  padding: 0;
+  display: block;
+}
+----------->
+.episodio{
+  background: #ab2ba3;
+}
+.episodio .episodios img{
+  width: 100%;
+position: relative;
+
+}
+.cl{
+  display: inline-block;
+}
+.episodio .episodios p {
+  text-align: center;
+}
+
+-----------------------------------
+.contenido .listacontenido{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.listacontenido li{
+  display: inline-block;
+  width: 119px;
+  margin: 0 10px 10px 0;
+  vertical-align: top;
+}
+
+.listacontenido li img{
+  width: 100%;
+}
